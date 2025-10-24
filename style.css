@@ -1,0 +1,55 @@
+
+
+.body{
+    background: #30a489;
+}
+
+.headings{
+    font-size: 34px;
+    color: rgb(69, 102, 174);
+    margin: 10%;
+}
+
+.paragraphs{
+    font-size: 22px;
+    color: #e80fa3a1;
+    padding: 10px 50px 75px 10px;
+}
+
+.lists{
+    font-size: 25px;
+    color: #3ee70a;
+    margin: 5%;
+}
+
+.links{
+    font-size: 35px;
+    color: red;
+    padding: 20px 10px 20px 10px;
+}
+
+.content{
+    display: flex;
+    margin: 5%;
+}
+
+.content-left{
+    width: auto;
+    background: #a805e852;
+    margin: 2%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.content-right{
+    width:  200px;
+    background: #05c6e852;
+    margin: 2%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.images{
+    width: 200px;
+    height: 200px;
+}
